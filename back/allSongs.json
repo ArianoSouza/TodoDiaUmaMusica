@@ -1,0 +1,458 @@
+
+    [
+      {
+        "id": 1,
+        "nome": "HEAT",
+        "artista": "Brockhampton"
+      },
+      {
+        "id": 2,
+        "nome": "GOLD",
+        "artista": "Brockhampton"
+      },
+      {
+        "id": 3,
+        "nome": "STAR",
+        "artista": "Brockhampton"
+      },
+      {
+        "id": 4,
+        "nome": "BOYS",
+        "artista": "Brockhampton"
+      },
+      {
+        "id": 5,
+        "nome": "2PAC",
+        "artista": "Brockhampton"
+      },
+      {
+        "id": 6,
+        "nome": "FAKE",
+        "artista": "Brockhampton"
+      },
+      {
+        "id": 7,
+        "nome": "BANK",
+        "artista": "Brockhampton"
+      },
+      {
+        "id": 8,
+        "nome": "TRIP",
+        "artista": "Brockhampton"
+      },
+      {
+        "id": 9,
+        "nome": "SWIM",
+        "artista": "Brockhampton"
+      },
+      {
+        "id": 10,
+        "nome": "BUMP",
+        "artista": "Brockhampton"
+      },
+      {
+        "id": 11,
+        "nome": "CASH",
+        "artista": "Brockhampton"
+      },
+      {
+        "id": 12,
+        "nome": "MILK",
+        "artista": "Brockhampton"
+      },
+      {
+        "id": 13,
+        "nome": "FACE",
+        "artista": "Brockhampton"
+      },
+      {
+        "id": 14,
+        "nome": "WASTE",
+        "artista": "Brockhampton"
+      },
+      {
+        "id": 15,
+        "nome": "GUMMY",
+        "artista": "Brockhampton"
+      },
+      {
+        "id": 16,
+        "nome": "QUEER",
+        "artista": "Brockhampton"
+      },
+      {
+        "id": 17,
+        "nome": "JELLO",
+        "artista": "Brockhampton"
+      },
+      {
+        "id": 18,
+        "nome": "TEETH",
+        "artista": "Brockhampton"
+      },
+      {
+        "id": 19,
+        "nome": "SWAMP",
+        "artista": "Brockhampton"
+      },
+      {
+        "id": 20,
+        "nome": "SCENE",
+        "artista": "Brockhampton"
+      },
+      {
+        "id": 21,
+        "nome": "TOKYO",
+        "artista": "Brockhampton"
+      },
+      {
+        "id": 22,
+        "nome": "JESUS",
+        "artista": "Brockhampton"
+      },
+      {
+        "id": 23,
+        "nome": "CHICK",
+        "artista": "Brockhampton"
+      },
+      {
+        "id": 24,
+        "nome": "JUNKY",
+        "artista": "Brockhampton"
+      },
+      {
+        "id": 25,
+        "nome": "FIGHT",
+        "artista": "Brockhampton"
+      },
+      {
+        "id": 26,
+        "nome": "SWEET",
+        "artista": "Brockhampton"
+      },
+      {
+        "id": 27,
+        "nome": "GAMBA",
+        "artista": "Brockhampton"
+      },
+      {
+        "id": 28,
+        "nome": "SUNNY",
+        "artista": "Brockhampton"
+      },
+      {
+        "id": 29,
+        "nome": "SUMMER",
+        "artista": "Brockhampton"
+      },
+      {
+        "id": 30,
+        "nome": "BOOGIE",
+        "artista": "Brockhampton"
+      },
+      {
+        "id": 31,
+        "nome": "ZIPPER",
+        "artista": "Brockhampton"
+      },
+      {
+        "id": 32,
+        "nome": "JOHNNY",
+        "artista": "Brockhampton"
+      },
+      {
+        "id": 33,
+        "nome": "LIQUID",
+        "artista": "Brockhampton"
+      },
+      {
+        "id": 34,
+        "nome": "CINEMA 1",
+        "artista": "Brockhampton"
+      },
+      {
+        "id": 35,
+        "nome": "STUPID",
+        "artista": "Brockhampton"
+      },
+      {
+        "id": 36,
+        "nome": "BLEACH",
+        "artista": "Brockhampton"
+      },
+      {
+        "id": 37,
+        "nome": "ALASKA",
+        "artista": "Brockhampton"
+      },
+      {
+        "id": 38,
+        "nome": "HOTTIE",
+        "artista": "Brockhampton"
+      },
+      {
+        "id": 39,
+        "nome": "CINEMA 2",
+        "artista": "Brockhampton"
+      },
+      {
+        "id": 40,
+        "nome": "SISTER / NATION",
+        "artista": "Brockhampton"
+      },
+      {
+        "id": 41,
+        "nome": "RENTAL",
+        "artista": "Brockhampton"
+      },
+      {
+        "id": 42,
+        "nome": "STAINS",
+        "artista": "Brockhampton"
+      },
+      {
+        "id": 43,
+        "nome": "TEAM",
+        "artista": "Brockhampton"
+      },
+      {
+        "id": 44,
+        "nome": "NEW ORLEANS",
+        "artista": "Brockhampton"
+      },
+      {
+        "id": 45,
+        "nome": "THUG LIFE",
+        "artista": "Brockhampton"
+      },
+      {
+        "id": 46,
+        "nome": "BERLIN",
+        "artista": "Brockhampton"
+      },
+      {
+        "id": 47,
+        "nome": "SOMETHING ABOUT HIM",
+        "artista": "Brockhampton"
+      },
+      {
+        "id": 48,
+        "nome": "WHERE THE CASH AT",
+        "artista": "Brockhampton"
+      },
+      {
+        "id": 49,
+        "nome": "WEIGHT",
+        "artista": "Brockhampton"
+      },
+      {
+        "id": 50,
+        "nome": "DISTRICT",
+        "artista": "Brockhampton"
+      },
+      {
+        "id": 51,
+        "nome": "LOOPHOLE",
+        "artista": "Brockhampton"
+      },
+      {
+        "id": 52,
+        "nome": "TAPE",
+        "artista": "Brockhampton"
+      },
+      {
+        "id": 53,
+        "nome": "J'OUVERT",
+        "artista": "Brockhampton"
+      },
+      {
+        "id": 54,
+        "nome": "HONEY",
+        "artista": "Brockhampton"
+      },
+      {
+        "id": 55,
+        "nome": "VIVID",
+        "artista": "Brockhampton"
+      },
+      {
+        "id": 56,
+        "nome": "SAN MARCOS",
+        "artista": "Brockhampton"
+      },
+      {
+        "id": 57,
+        "nome": "TONYA",
+        "artista": "Brockhampton"
+      },
+      {
+        "id": 58,
+        "nome": "FABRIC",
+        "artista": "Brockhampton"
+      },
+      {
+        "id": 59,
+        "nome": "NO HALO",
+        "artista": "Brockhampton"
+      },
+      {
+        "id": 60,
+        "nome": "SUGAR",
+        "artista": "Brockhampton"
+      },
+      {
+        "id": 61,
+        "nome": "BOY BYE",
+        "artista": "Brockhampton"
+      },
+      {
+        "id": 62,
+        "nome": "HEAVEN BELONGS TO YOU",
+        "artista": "Brockhampton"
+      },
+      {
+        "id": 63,
+        "nome": "ST. PERCY",
+        "artista": "Brockhampton"
+      },
+      {
+        "id": 64,
+        "nome": "IF YOU PRAY RIGHT",
+        "artista": "Brockhampton"
+      },
+      {
+        "id": 65,
+        "nome": "DEARLY DEPARTED",
+        "artista": "Brockhampton"
+      },
+      {
+        "id": 66,
+        "nome": "I BEEN BORN AGAIN",
+        "artista": "Brockhampton"
+      },
+      {
+        "id": 67,
+        "nome": "GINGER",
+        "artista": "Brockhampton"
+      },
+      {
+        "id": 68,
+        "nome": "BIG BOY",
+        "artista": "Brockhampton"
+      },
+      {
+        "id": 69,
+        "nome": "LOVE ME FOR LIFE",
+        "artista": "Brockhampton"
+      },
+      {
+        "id": 70,
+        "nome": "VICTOR ROBERTS",
+        "artista": "Brockhampton"
+      },
+      {
+        "id": 71,
+        "nome": "BUZZCUT (feat. Danny Brown)",
+        "artista": "Brockhampton"
+      },
+      {
+        "id": 72,
+        "nome": "CHAIN ON (feat. JPEGMAFIA)",
+        "artista": "Brockhampton"
+      },
+      {
+        "id": 73,
+        "nome": "COUNT ON ME",
+        "artista": "Brockhampton"
+      },
+      {
+        "id": 74,
+        "nome": "BANKROLL (feat. A$AP Rocky & A$AP Ferg)",
+        "artista": "Brockhampton"
+      },
+      {
+        "id": 75,
+        "nome": "THE LIGHT",
+        "artista": "Brockhampton"
+      },
+      {
+        "id": 76,
+        "nome": "WINDOWS (feat. SoGone SoFlexy)",
+        "artista": "Brockhampton"
+      },
+      {
+        "id": 77,
+        "nome": "I'LL TAKE YOU ON (feat. Charlie Wilson)",
+        "artista": "Brockhampton"
+      },
+      {
+        "id": 78,
+        "nome": "OLD NEWS (feat. Baird)",
+        "artista": "Brockhampton"
+      },
+      {
+        "id": 79,
+        "nome": "WHAT'S THE OCCASION?",
+        "artista": "Brockhampton"
+      },
+      {
+        "id": 80,
+        "nome": "WHEN I BALL",
+        "artista": "Brockhampton"
+      },
+      {
+        "id": 81,
+        "nome": "DON'T SHOOT UP THE PARTY",
+        "artista": "Brockhampton"
+      },
+      {
+        "id": 82,
+        "nome": "DEAR LORD",
+        "artista": "Brockhampton"
+      },
+      {
+        "id": 83,
+        "nome": "1997 DIANA",
+        "artista": "Brockhampton"
+      },
+      {
+        "id": 84,
+        "nome": "1998 TRUMAN",
+        "artista": "Brockhampton"
+      },
+      {
+        "id": 85,
+        "nome": "1999 WILDFIRE",
+        "artista": "Brockhampton"
+      },
+      {
+        "id": 86,
+        "nome": "2000 FOLLOW",
+        "artista": "Brockhampton"
+      },
+      {
+        "id": 87,
+        "nome": "2001 DEMO 21",
+        "artista": "Brockhampton"
+      },
+      {
+        "id": 88,
+        "nome": "LAMB",
+        "artista": "Brockhampton"
+      },
+      {
+        "id": 89,
+        "nome": "READY FOR WAR",
+        "artista": "Brockhampton"
+      },
+      {
+        "id": 90,
+        "nome": "FOLLOW",
+        "artista": "Brockhampton"
+      },
+      {
+        "id": 91,
+        "nome": "SUGAR (Remix) (feat. Dua Lipa)",
+        "artista": "Brockhampton"
+      }
+    ]
