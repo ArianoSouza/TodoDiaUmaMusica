@@ -12,15 +12,25 @@ export default function Home() {
     const [musicas, setMusicas] = useState<Musica>();
 
     useEffect(() => {
+      const cachedMusica = localStorage.getItem('musica');
+      const timestamp = localStorage.getItem('timestamp');
+      const tempoMaximoCache = 60 * 60 * 1000;
+      const agora = new Date().getTime();
+  
+      if (cachedMusica && timestamp && agora - Number(timestamp) < tempoMaximoCache) {
+        setMusicas(JSON.parse(cachedMusica));
+      } else {
+
         axios.get('https://tododiaumamusica.onrender.com/musicas')
           .then(response => {
             setMusicas(response.data);
-            console.log(response.data)
+            localStorage.setItem('musica', JSON.stringify(response.data));
+            localStorage.setItem('timestamp', String(agora)); 
           })
           .catch(error => {
             console.error('Erro ao buscar músicas:', error);
-            console.log("não deu")
           });
+      }
       }, []);
 
     return (
@@ -32,7 +42,5 @@ export default function Home() {
         <a href={musicas?.id == 6 ? 'https://www.youtube.com/watch?v=94nuoYQORDw':""} target="_blank">{musicas?.id == 6 ? "https://www.youtube.com/watch?v=94nuoYQORDw" : ""}</a>
     </div>
     </>
-        
-
     );
   }
