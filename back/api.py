@@ -78,7 +78,7 @@ def get_musica_por_id():
 # Função para rodar o agendador em uma thread separada
 def agendador():
     """Executa o agendador em uma thread separada."""
-    schedule.every().minute.do(atualizar_today_data)
+    schedule.every().day.do(atualizar_today_data)
     while True:
         schedule.run_pending()
         time.sleep(1)

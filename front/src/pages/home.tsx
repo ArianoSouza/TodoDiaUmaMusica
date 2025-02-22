@@ -12,7 +12,7 @@ export default function Home() {
     const [musicas, setMusicas] = useState();
 
     useEffect(() => {
-        axios.get('http://localhost:5000/musicas')
+        axios.get('https://tododiaumamusica.onrender.com/musicas')
           .then(response => {
             setMusicas(response.data);
             console.log(response.data)
