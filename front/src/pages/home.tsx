@@ -39,7 +39,7 @@ export default function Home() {
         <img src= { musicas?.id == 57 ? "https://upload.wikimedia.org/wikipedia/en/5/5e/Brockhampton_-_Iridescence.png": ""} alt="capa" />
         <h2 className={styles.titulo}>{musicas?.nome}</h2>
         <p className={styles.artist}>{musicas?.artista}</p>
-        <a href={musicas?.id == 57 ? 'https://www.youtube.com/watch?v=KijEfKSm7d4':""} target="_blank">{musicas?.id == 6 ? "https://www.youtube.com/watch?v=94nuoYQORDw" : ""}</a>
+        <a href={musicas?.id == 57 ? 'https://www.youtube.com/watch?v=KijEfKSm7d4':""} target="_blank">{musicas?.id == 57 ? "https://www.youtube.com/watch?v=94nuoYQORDw" : ""}</a>
     </div>
     </>
     );
